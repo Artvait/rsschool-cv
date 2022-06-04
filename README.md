@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://github.com/Artvait/rsschool-cv.git/rsschool-cv
