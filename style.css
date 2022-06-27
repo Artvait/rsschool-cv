@@ -1,0 +1,186 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1 {
+    color: rgb(45, 121, 121);
+}
+span {
+    color: blue;
+}
+.header{
+    background-color: darkkhaki;
+    height: 75px;
+}
+.headerMenu{
+    display: flex;
+    gap: 25px;
+    margin-left: 55%;
+    color: blanchedalmond;
+    padding: 25px;
+}
+.img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-left: 300px;
+    margin-top: 35px;
+    transform: rotate(45deg);
+}
+.namePhoto{
+    display: flex;
+    text-align: center;
+}
+.name_block{
+margin-left: 370px;
+margin-top: 60px;
+display: flex;
+flex-direction: column;
+gap: 10px;
+}
+.name{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(45, 121, 121) ;
+    display: flex;
+}
+.line{
+    border-bottom: 2px solid darkkhaki ;
+    width: 100px;
+    margin-left: 75px;
+  }
+.descreption{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(45, 121, 121);
+    margin-right: 15px;
+    margin-top: 25px;
+}
+.line_namephoto{
+    background: darkkhaki;
+    width: 1120px;
+    height: 8px;
+    margin-left: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.contact_summary{
+    display: flex;
+    margin-left: 100px;
+}
+.summary_block{
+    margin-left: 240px;
+    width: 440px;
+    height: 250px;
+    border-bottom: 1.5px solid darkkhaki;
+}
+.contact_block{
+    height: 250px;
+    width: 440px;
+    border-bottom: 1.5px solid darkkhaki;
+}
+.cite{
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}
+.contact_title{
+    margin-bottom: 15px;
+}
+.summary_title{
+    margin-bottom: 15px;
+}
+.skills_code{
+    display: flex;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.code{
+    margin-left: 240px;
+    height: 250px;
+    width: 440px;
+    border-bottom: 1.5px solid darkkhaki;
+}
+.skills{
+    height: 250px;
+    width: 440px;
+    border-bottom: 1.5px solid darkkhaki;
+}
+.skills_web{
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}.skills_title{
+    margin-bottom: 15px;
+}
+.code_title{
+    margin-bottom: 15px;
+}
+.courses_progects{
+    display: flex;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.courses_block{
+    height: 250px;
+    width: 440px;
+    border-bottom: 1.5px solid darkkhaki;
+}.courses{
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}
+.progects_block{
+    height: 250px;
+    width: 440px;
+    border-bottom: 1.5px solid darkkhaki;
+    margin-left: 240px;
+}
+.progects{
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}
+.education_english{
+    display: flex;
+    margin-left: 100px;
+    margin-top: 20px;
+}.education_block{
+    height: 100px;
+    width: 440px;
+}
+.english_block{
+    height: 100px;
+    width: 440px;
+    margin-left: 240px;
+}
+.education_title{
+    margin-bottom: 10px;
+}
+.english_title{
+    margin-bottom: 10px;
+}
+.footer{
+    display: flex;
+    background: darkkhaki;
+    margin-top: 30px;
+    height: 75px;
+}
+.footer_img{
+    width: 75px;
+    height: 75px;
+    margin-left: 950px;
+}
+.footer_title{
+    margin-top: 30px;
+    margin-left: 95px;
+    color: rgb(45, 121, 121);
+}
+.artvait{
+    margin-top: 26px;
+    text-decoration: none;
+    color: rgb(45, 121, 121);
+    font-size: 20px;
+    margin-left: 12px;
+}
+
+
